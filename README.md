@@ -115,6 +115,7 @@ sudo apt-get install build-essential libpcre3-dev zlib1g-dev libssl-dev libhired
 ```
 
 ## About php7+ install
+
 Please change `configure` :
 
 ```txt
@@ -127,7 +128,7 @@ else
 fi
 
 ```
-
+and with `--enable-embed`.
 
 
 # Installation
