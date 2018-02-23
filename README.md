@@ -9,13 +9,7 @@ A distribution of Nginx with c++ and python web development.
 # Features
 - All features of nginx(latest release) are inherited, i.e., it is 100% compatible with nginx.
 
-# Branch
 
-- master
-- only-cpp
-- only-python
-- only-php
-- no-java
 
 # python
 ## hi_req
